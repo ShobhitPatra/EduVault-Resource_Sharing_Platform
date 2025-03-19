@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "EduVault-Resource_Sharing_Platform",
   "private": true,
   "scripts": {
     "build": "turbo run build",
